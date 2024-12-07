@@ -21,11 +21,11 @@ repository               : "aradmaleki02/aradmaleki02.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Arad Maleki Toolabi"
   pronouns         : # example: "she/her"  
-  bio              : "Interested in Efficient & Trustworthy ML"
-  location         : "Sharif University of Technology, Tehran, Iran"
+  bio              : "B.Sc. Student of Computer Engineering"
+  location         : "Sharif University of Technology"
   employer         :
   uri              : # URL
   email            : "aradmalekitoolabi@gmail.com"
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
