@@ -26,6 +26,9 @@ experience working on the following topics:
 * Adversarial Attacks
 * Hallucination in Foundation Models
 
+I am eager to explore opportunities to further advance my work on developing trustworthy models, 
+especially on large generative models.
+
 For **Efficient ML**, one can categorize the existing approaches into *algorithmic* and *system-level*. My previous
 research has been mostly focused on system-level approaches, specifically in multi-GPU systems, spanning topics
 such as:
