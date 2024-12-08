@@ -4,7 +4,7 @@ collection: publications
 category: published
 permalink: /publication/TRODO
 
-date: 2024
+date: 2024-10-01
 venue: 'NeurIPS'
 paperurl: 'https://nips.cc/virtual/2024/poster/93781'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
