@@ -17,7 +17,7 @@ I like to practice some guitar and play online chess. Feel free to
 
 
 # Research Experience
-Feel free to check out [my papers](publications)!
+Feel free to check out [my papers](papers)!
 
 I've had the opportunity of researching several topics in **Trustworthy ML**. Specifically, I have
 experience working on the following topics:
