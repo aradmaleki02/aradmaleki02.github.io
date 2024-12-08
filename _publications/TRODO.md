@@ -6,6 +6,7 @@ permalink: "https://nips.cc/virtual/2024/poster/93781"
 
 date: 2024-10-01
 venue: 'NeurIPS'
+paperurl: "https://nips.cc/virtual/2024/poster/93781"
 ---
 
 *Hossein Mirzaei, Ali Ansari, Bahar Dibaei Nia, Mojtaba Nafez, Moein Madadi, Sepehr Rezaee, Zeinab Sadat Taghavi,*
