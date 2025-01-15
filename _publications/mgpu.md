@@ -1,11 +1,11 @@
 ---
-title: "A Survey on Multi-GPUs"
+title: "A Survey on Multi-GPU Systems"
 collection: publications
 category: submitted
 permalink: https://drive.google.com/file/d/1aLE-Lw0yvUKNE5V8hbiYRaOFWgdNvlGU/view?usp=sharing
 
-date: 2024-12-01
-venue: 'ACM POMACS'
+date: 2024-12-31
+venue: 'ACM Computing Surveys'
 paperurl: "https://drive.google.com/file/d/1aLE-Lw0yvUKNE5V8hbiYRaOFWgdNvlGU/view?usp=sharing"
 ---
 To be submitted late December. Authors: *Atiyeh Gheibi*, ***Arad Maleki***, *Amirsaeed Ahmadi, Masoud Mohammadi, Sahand Zoufan, Mahdi Alinejad, Mohammad
